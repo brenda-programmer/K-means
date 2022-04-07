@@ -23,7 +23,7 @@ O presente projeto foi criado utilizando  a linguagem Python. Trata-se de uma ap
 
 - O campo **Digite a quantidade de Clusters**, é destinado para que o usuário digite a quantidade de clusters desejada para o gráfico K-Means.
 
-- O botão **Elbow**, pode ser acionado pelo usuário caso ele não saiba que quantidade de clusters colocar. Este botão apresentará um gráfico Elbow, um gráfico de linha, que indicará uma melhor quantidade de clusters para o usuário bem no ponto em que se forma um "cotovelo". A partir desse valor indicado o usuário poderá colocá-lo no campo em que se pede a quantidade de clusters:
+- O botão **Elbow**, pode ser acionado pelo usuário caso ele não saiba que quantidade de clusters colocar. Este botão apresentará um gráfico Elbow: um gráfico de linha, que indicará uma melhor quantidade de clusters para o usuário bem no ponto em que se forma um "cotovelo". A partir desse valor indicado o usuário poderá colocá-lo no campo em que se pede a quantidade de clusters:
 
 ![image](https://user-images.githubusercontent.com/54628539/162093002-e9b7a72e-267c-4fbe-aa5c-97b4058cb6de.png)
 
