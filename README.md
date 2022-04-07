@@ -31,7 +31,7 @@ O presente projeto foi criado utilizando  a linguagem Python. Trata-se de uma ap
 
 ![image](https://user-images.githubusercontent.com/54628539/162093776-a1bb563d-4201-43c1-b79b-59f539d418d5.png)
 
-- O botão **Gerar Planilha**, irá gerar uma palnilha excel, que será salva automáticamente na pasta do projeto com o nome *PlanilhaKmeans.xlsx*, que exibirá os detalhes do gráfico K-Means - mostrará em que cluster está cada um dos dados da da base de dados e também um gráfico de barras que exibe a quantidade de dados em cada cluster:
+- O botão **Gerar Planilha**, irá gerar uma palnilha excel, salva automáticamente na pasta do projeto com o nome *PlanilhaKmeans.xlsx*, que exibirá os detalhes do gráfico K-Means - mostrará em que cluster está cada um dos dados da da base de dados e também um gráfico de barras que exibe a quantidade de dados em cada cluster:
 
 ![image](https://user-images.githubusercontent.com/54628539/162094420-064de9bf-b087-4bc9-81e3-b394b52e1b16.png)
 
