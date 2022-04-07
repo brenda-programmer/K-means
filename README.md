@@ -1,6 +1,6 @@
 # Apresentação do Projeto
 
-O presente projeto foi criado utilizando  a linguagem Python. Trata-se de uma aplicação desktop com a finalidade de carregar uma base de dados e exibir o gráfico K-Means desses dados.
+O presente projeto foi criado utilizando  a linguagem Python. Trata-se de uma aplicação desktop com a finalidade de gerar um gráfico K-Means baseado em uma determinada base de dados ecolhida pelo usuário.
 
 # Como rodar o projeto
 
