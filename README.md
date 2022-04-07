@@ -2,7 +2,7 @@
 
 O presente projeto foi criado utilizando  a linguagem Python. Trata-se de uma aplicação desktop com a finalidade de gerar um gráfico K-Means baseado em uma determinada base de dados escolhida pelo usuário.
 
-# Como rodar o projeto
+# Como rodar o Projeto
 
 - Para rodar o projeto você deverá ter o Python instalado na sua máquina;
 - Após descompactar o projeto, baixado daqui do Git, clicar no arquivo kmeans.py, e o projeto será aberto;
